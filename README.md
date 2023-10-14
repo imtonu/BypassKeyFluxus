@@ -1,14 +1,5 @@
 # BypassKeyFluxus
-This is a Bypass Fluxus Key system!
+This is a Bypass Fluxus Key system V2
 
-First: Install python from Microsoft store!
+Just RUN IT NOTHING REQUIRED!!!
 
-second: Run Install.bat!
-         (If doesn't work run admin)
-
-Third: Run Start.bat
-       (If doesn't work run admin)
-
-In the end you will get the key
-
-enjoy!
