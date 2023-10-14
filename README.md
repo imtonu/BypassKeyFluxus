@@ -1,6 +1,8 @@
 # BypassKeyFluxus
 This is a Bypass Fluxus Key system!
+
 First: Install python from Microsoft store!
+
 second: Run Install.bat!
          (If doesn't work run admin)
 
